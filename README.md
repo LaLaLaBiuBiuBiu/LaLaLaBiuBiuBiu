@@ -31,6 +31,9 @@
 - 📈 Goal: Make industrial data collection **more efficient, stable, and secure**
 
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LaLaLaBiuBiuBiu&theme=tokyo-night)](https://github.com/LaLaLaBiuBiuBiu/github-readme-activity-graph)
+
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://github.com/user-attachments/assets/7c324c00-8e9a-4f7c-a16f-2416f3a62d7d" />
 
