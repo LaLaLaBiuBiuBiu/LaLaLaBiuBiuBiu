@@ -15,14 +15,7 @@
   </picture>
 </p>
 
-## 👋 关于我 | About Me  
-- 💻 **C# 开发工程师**，专注于 **工业物联网（IIoT）** 方向  
-- ⚡ 擅长在 **低功耗设备** 上实现高效的数据采集  
-- 🔍 业余爱好 **逆向工程**（C++ / C#）  
-- 🔧 喜欢研究 **单片机** 和嵌入式系统  
-- 📈 目标：让工业数据采集更加 **高效、稳定、安全**  
-
----
+## 👋  About Me  
 
 - 💻 **C# Developer**, focusing on **Industrial Internet of Things (IIoT)**  
 - ⚡ Skilled in efficient **data acquisition** on **low-power devices**  
